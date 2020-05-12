@@ -1,1 +1,3 @@
-dev config version 1
+config:
+  info:"dev config version 1"
+
